@@ -7,3 +7,11 @@
 # To run app
 `npm install`
 `npm start`
+
+# Stack
+metamask
+ganache
+node js
+react js
+web3 js
+solidity
