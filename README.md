@@ -15,3 +15,4 @@ node js
 react js
 web3 js
 solidity
+truffle
